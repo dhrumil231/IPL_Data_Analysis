@@ -118,10 +118,3 @@ If you found this project insightful, don’t forget to **star ⭐ the repositor
 
 > “Cricket meets data science — turning match stats into powerful insights!” 🏏💡
 
-```
-
----
-
-Would you like me to **add a visual section** (e.g., insert sample chart screenshots or placeholders for visualizations with captions like “Top Batsmen by Runs” or “Toss Decision Impact”)?  
-I can prepare that next so your README looks more like a *data story presentation* rather than just code.
-```

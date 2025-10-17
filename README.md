@@ -89,6 +89,5 @@ You can easily explore and replicate this analysis on your local machine:
 ## 🤝 Contribution & Contact
 
 If you have suggestions for further analysis or improvements, feel free to open an **issue** or a **pull request**\!
-
-  * **Author:** Dhrumil Soni
+  * **Author:** Dhrumil Shah
   * **GitHub:** [@dhrumil231](https://github.com/dhrumil231)
